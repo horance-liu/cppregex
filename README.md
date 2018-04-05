@@ -1,4 +1,4 @@
-# FizzBuzzWhizz
+# CppRegex
 
 ## Environment
 
@@ -19,6 +19,7 @@ OS:
 ```bash
 $ git clone https://github.com/horance-liu/cut
 ```
+
 To install cut, please refer to `cut/README.md`
 
 ## Build
@@ -26,4 +27,3 @@ To install cut, please refer to `cut/README.md`
 ```bash
 $ ./build.sh
 ```
-
